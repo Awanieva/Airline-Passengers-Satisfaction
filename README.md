@@ -35,14 +35,8 @@ The process involved in achieving this
 
 View SQL codes here: https://github.com/Awanieva/SQL-Projects/blob/main/Airline%20Passengers%20Project.sql
 
-Power BI was used for visualizations.
+Power BI was used for visualizations. View dashboard: https://www.novypro.com/project/airline-passengers-satisfaction-1
 
 
 
 Insights and recommendations are in the visuals.
-
-
-
-Let me know what you think of the project.
-
-Your feedback is much appreciated.
