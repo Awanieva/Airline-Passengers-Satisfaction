@@ -1,5 +1,5 @@
 # Airline-Passengers-Satisfaction
-I'm starting this month with this data challenge project from Chris French data project collaboration community. 
+I'm starting this month with this data challenge project from project collaboration community. 
 
 This data set is from Maven Analytics Its contains an airline satisfaction survey.
 
